@@ -31,3 +31,6 @@
 
 ### Linux
 - [ ] [Linux Foundation Certified System Administrator Exam (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
+
+### Github Actions
+- [ ] [Github Actions Documentation](https://docs.github.com/en/actions)
