@@ -14,8 +14,14 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-Run `vagrant up --provider hyperv`
+Run:
+```console
+vagrant up --provider hyperv
+```
 
 ## SSH into the machine
 
-Run `vagrant ssh`
+Run:
+```console
+vagrant ssh
+```
