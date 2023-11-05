@@ -2,8 +2,9 @@
 
 ## Installation
 Download Vagrant installer for your chosen OS:
-
 https://developer.hashicorp.com/vagrant/downloads
+
+Install VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 ## Creating a VM
 Create a `Vagrantfile`:
@@ -16,7 +17,7 @@ end
 
 Run:
 ```console
-vagrant up --provider hyperv
+vagrant up --provider virtualbox
 ```
 
 ## SSH into the machine
